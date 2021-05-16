@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Medium';
+    src: url('../fonts/Metropolis-Medium.eot');
+    src: url('../fonts/Metropolis-Medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Metropolis-Medium.svg#Metropolis-Medium') format('svg'),
+         url('../fonts/Metropolis-Medium.ttf') format('truetype'),
+         url('../fonts/Metropolis-Medium.woff') format('woff'),
+         url('../fonts/Metropolis-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Book';
+    src: url('../fonts/AvenirLTStd-Book.eot');
+    src: url('../fonts/AvenirLTStd-Book.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/AvenirLTStd-Book.svg#AvenirLTStd-Book') format('svg'),
+         url('../fonts/AvenirLTStd-Book.ttf') format('truetype'),
+         url('../fonts/AvenirLTStd-Book.woff') format('woff'),
+         url('../fonts/AvenirLTStd-Book.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }

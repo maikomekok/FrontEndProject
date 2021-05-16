@@ -1,0 +1,70 @@
+.body_container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0px auto;
+    background-color: white;
+}
+/* header */
+header{
+    margin-top: 30px;
+}
+.search_div{
+    width: 446px;
+    height: 56px;
+    background-color: rgb(244, 255, 255);
+    position: relative;
+    align-items: center;
+}
+.search_p{
+    position: absolute;
+    font-size: 14px;
+    top: 23px;
+    left: 10px;
+    font-family: 'Book';
+}
+.search_icon{
+    position: absolute;
+    right: 6px;
+    top: 15px;
+}
+.search_section{
+    display: flex;
+    align-items: center;
+}
+.header_box_2{
+    display: flex;
+    margin-left: 40%;
+    height: 60px;
+    align-items: center;
+    position: relative;
+    
+}
+.messages{
+    width: 24px;
+    height: 24px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.notification{
+    width: 24px;
+    height: 24px;
+    padding-right: 10px;
+}
+.text_header{
+    color: #ff2288;
+    width: 80px;
+    
+}
+.button{
+    width: 129px;
+    height: 56px;
+    position: relative;
+    padding-left: 10px;
+}
+.button_text{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-family: 'Book';
+    color: white;
+}

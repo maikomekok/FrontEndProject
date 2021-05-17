@@ -9,6 +9,7 @@ header{
     margin-top: 30px;
 }
 .search_div{
+    margin-left: 120px;
     width: 446px;
     height: 56px;
     background-color: rgb(244, 255, 255);
@@ -33,7 +34,7 @@ header{
 }
 .header_box_2{
     display: flex;
-    margin-left: 40%;
+   padding-left: 300px;
     height: 60px;
     align-items: center;
     position: relative;
@@ -74,14 +75,14 @@ header{
     align-items: center;
 }
 .second_section{
-    margin-left:300px;
+    margin-left: 35px;
     margin-top: 60px;
     display: flex;
 }
 .second_section h2{
     font-size: 16px;
     font-family: 'Book';
-    margin-left: 75px;
+    margin-left: 50px;
 
 }
 .filters{
@@ -94,7 +95,7 @@ header{
 }
 .second_section_box_2{
     position: relative;
-    margin-left:80px ;
+    margin-left:200px ;
 }
 .icon{
     position: absolute;
@@ -104,12 +105,39 @@ header{
 .main_box_1{
     display: flex;
     align-items: center;
-    margin-left: 300px;
+    margin-left: 20px;
 }
 .main_box_1 p{
     margin-left: 30px;
+    font-size: 16px;
+    font-family: 'Medium';
 }
 .picture_1,.picture_2,.picture_3,.picture_4{
     width: 289px;
     height: 278px;
+}
+.main_section_2{
+    display: flex;
+    margin-left: 20px;
+}
+.pic_5,.pic_6,.pic_7,.pic_8{
+    width: 289px;
+    height: 278px;
+}
+.main_section_2 p{
+    margin-left: 30px;
+    font-size: 16px;
+    font-family: 'Medium';
+}
+.button_box{
+    display: inline-block;
+    position: relative;
+    margin-left:460px;
+}
+h4{
+    position: absolute;
+    top: 25px;
+    left: 100px;
+    font-family: 'Heavy';
+    
 }

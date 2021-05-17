@@ -1,4 +1,4 @@
-.body_container{
+body{
     max-width: 1200px;
     width: 100%;
     margin: 0px auto;
@@ -9,7 +9,7 @@ header{
     margin-top: 30px;
 }
 .search_div{
-    margin-left: 120px;
+    margin-left: 55px;
     width: 446px;
     height: 56px;
     background-color: rgb(244, 255, 255);
@@ -140,4 +140,58 @@ h4{
     left: 100px;
     font-family: 'Heavy';
     
+}
+h1{
+    font-size: 32px;
+    height: 50px;
+}
+.top_designers div{
+    margin-left: 15px;
+
+}
+.top_designers p{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 12px;
+    color: rgb(19, 18, 18);
+}
+.main_box_4{
+    display: flex;
+    margin-top: 50px;
+}
+.top_designers img{
+    width: 132px;
+    height: 132px;
+
+}
+.top_designers{
+    margin-left: 0;
+}
+.div_tv{
+    display: flex;
+    
+}
+.div_tv h2{
+    margin-left: 480px;
+}
+.button_section img{
+    width: 132px;
+    height: 44px;
+}
+.button_section div{
+    position: relative;
+}
+.button_section p{
+    position: absolute;
+    top:10px;
+    left: 30px;
+    font-size: 14px;
+}
+.button_section div{
+    margin-top: 0px;
+}
+.button_section{
+    margin-top: 0px;
+    display: flex;
+
 }

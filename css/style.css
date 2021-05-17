@@ -68,3 +68,36 @@ header{
     font-family: 'Book';
     color: white;
 }
+/* Second section */
+.second_section_box_1{
+    display: flex;
+    align-items: center;
+}
+.second_section{
+    margin-left:300px;
+    margin-top: 60px;
+    display: flex;
+}
+.second_section h2{
+    font-size: 16px;
+    font-family: 'Book';
+    margin-left: 75px;
+
+}
+.filters{
+    font-size: 16px;
+    font-family: 'Book';
+    position: absolute;
+    top: 22.5px;
+    left: 60px;
+
+}
+.second_section_box_2{
+    position: relative;
+    margin-left:80px ;
+}
+.icon{
+    position: absolute;
+    top:20px ;
+    left: 15px;
+}

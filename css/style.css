@@ -194,3 +194,29 @@ h1{
     margin-top: 0px;
     display: flex;
 }
+.list_box{
+    display: flex;
+    margin-top: 150px;
+}
+.list_box_child_2,.list_box_child_3,.list_box_child_4{
+    padding-left: 250px;
+
+}
+.list_box_child_1{
+    margin-left: 25px;
+}
+ul li{
+    font-size: 16px;
+    font-family: 'Book';
+}
+.footer_div img{
+    margin-left: 10px;
+}
+.logo{
+    padding-left: 1000px;
+}
+.footer_div{
+    margin-top: 20px;
+}
+    
+    
